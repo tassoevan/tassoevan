@@ -2,5 +2,5 @@
 
 Frontender based in Porto Alegre, Brazil.
 
-- 🌐 [tassoevan.github.io](https://tassoevan.github.io/)
+- 🌐 [tassoevan.me](https://tassoevan.me/)
 - 📫 [tasso@tassoevan.me](mailto:tasso@tassoevan.me)
